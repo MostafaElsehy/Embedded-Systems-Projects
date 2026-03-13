@@ -5,7 +5,7 @@ This project is a digital up/down counter built with an Arduino Uno. It uses two
 
 ## 🛠️ Hardware Components
 * 1x Arduino Uno
-* 1x 1-Digit 7-Segment Display (Common Cathode/Anode)
+* 1x 1-Digit 7-Segment Display (Common Cathode)
 * 2x Tactile Push Buttons (4-pin)
 * 7x 220Ω Resistors
 * 1x Breadboard
