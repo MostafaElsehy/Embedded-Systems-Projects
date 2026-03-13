@@ -20,5 +20,8 @@ This project is a digital up/down counter built with an Arduino Uno. It uses two
 ## 📂 Circuit Wiring
 ![Circuit Diagram](/docs/7-Segment-UpDown-Counter/one-digit_seven_segment_display_counter.png)
 
+## Demo Video
+![Circuit Diagram](/docs/7-Segment-UpDown-Counter/output1.gif)
+
 ---
 *This project is part of my ongoing embedded systems and mechatronics portfolio.*
