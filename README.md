@@ -7,7 +7,7 @@ As I design and build new systems, they are added to their respective categories
 ## 📂 Project Index
 
 ### Basic Circuits & Logic
-* [**7-Segment Up/Down Counter**](./01-Basic-Circuits/7-Segment-Counter) - A digital counter utilizing tactile push buttons, internal pull-up resistors, and hardware debouncing concepts.
+* [**7-Segment Up/Down Counter**](./7-Segment-UpDown-Counter) - A digital counter utilizing tactile push buttons, internal pull-up resistors, and hardware debouncing concepts.
 
 ### Motor Control & Power (Coming Soon)
 * *(Future projects involving PWM, thyristors, or custom power supplies will go here)*
